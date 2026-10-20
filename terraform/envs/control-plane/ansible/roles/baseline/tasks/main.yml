@@ -1,0 +1,5 @@
+- name: Platform baseline marker
+  debug:
+    msg: >
+      Baseline role applied.
+      Runtime policy is enforced via CI/CD.
